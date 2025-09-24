@@ -16,6 +16,7 @@ O sistema simula todo o funcionamento de cadastro e login de usuário, com as ma
 <br>
 As funcionalidades apresentadas são úteis e se relacionam de determinada forma com os usuários e com os desenvolvedores, 
 as próximas funcionalidades apresentadas estão mais focadas para o desenvolvedor e a melhor organização do sistema em si, não se relacionando diretamente com o usuário.
+
 - ### Validação de email
   Para o email ser validado ele realmente precisa inserir um email que realmente atenda os pré-requisitos de um endereço de email, onde a validação é feita usando a função já existente em PHP, 'FILTER_VALIDATE_EMAIL'.
 - ### Tentativa de login com senha errada
@@ -35,6 +36,7 @@ as próximas funcionalidades apresentadas estão mais focadas para o desenvolved
 4.Coloque a pasta descompactada dentro de 'C:\xampp\htdocs\';
 5.Para rodar o projeto, abra o navegador e digite 'https://localhost/index'.
 ```
+
 
 
 
